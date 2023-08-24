@@ -1,5 +1,9 @@
 # belly-button-challenge
 
+## Pages link 
+
+https://alebridegroom.github.io/belly-button-challenge/
+
 ## Tables and Graphs
 
 ![bar and table](https://github.com/alebridegroom/belly-button-challenge/assets/91504694/2225b037-5bd7-49f7-b76c-55ab89684862)
